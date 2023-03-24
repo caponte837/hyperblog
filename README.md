@@ -9,5 +9,6 @@ Un blog increible para el [curso de Git y Github](https://platzi.com/cursos/git-
 * El flujo de trabajo de Github
 * El amor por las buenas prácticas
 * Trucos xd
+* Creado por Camilo
 
 Recordatorio **Este readme.md es loco**
