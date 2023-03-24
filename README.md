@@ -11,5 +11,6 @@ Un blog increible para el [curso de Git y Github](https://platzi.com/cursos/git-
 * Trucos xd
 * Creado por Camilo
 * Incluye ejemplos en Windows y Linux
+* Disponible para todas las edades
 
 Recordatorio **Este readme.md es loco**
